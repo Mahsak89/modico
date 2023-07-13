@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["modico.herokuapp.com", "localhost"]
+ALLOWED_HOSTS = ["8000-mahsak89-modico-mi6vqixeh5b.ws-eu101.gitpod.io","modico.herokuapp.com", "localhost"]
 
 
 # Application definition
